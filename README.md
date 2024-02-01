@@ -1,8 +1,8 @@
-👨🏽‍💻 Extremamente motivado e em constante desenvolvimento das minhas habilidades e crescimento profissional !
+🚀 Extremamente motivado e em constante desenvolvimento das minhas habilidades e crescimento profissional ! 🚀
 
   ##
 
-💻 My Skills:
+🖥️ My Skills:
 
   ##
 
@@ -16,6 +16,7 @@ Main Skill:
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
 </div>
 
@@ -35,7 +36,7 @@ Secondary Skill:
 
   ##
 
-Studying...
+ 📖 Studying 📖
 
 
 <div style="display: inline_block"><br>
