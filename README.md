@@ -11,7 +11,7 @@ Desenvolvedor de Software Back-End
 +- 1 ano Desenvolvendo em Node
 +- 1 ano utilizando de frameworks como React para Front
 
-Acesse e confira meu 📄 [Portfólio pessoal] (https://leogbarros.github.io/portfolio/)
+Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/portfolio/)
  # My Skills ⬇️    
 
 <div style="display: inline_block"><br>
