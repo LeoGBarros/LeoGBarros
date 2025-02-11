@@ -16,17 +16,14 @@
 
 
 
-# Projetos Pessoais     
+## Projetos Pessoais
 
-<div style="display: inline_block"><br>
- 
- 🃏 - Projeto Super Trunfo 
+### 🃏 Projeto Super Trunfo
 
- - Feito em PHP com Slim Framework
- - Utilização de JWT
+- Desenvolvido em **PHP** utilizando o **Slim Framework**
+- Implementação de **JWT** para autenticação
+- Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo)
 
-  
-</div>
 
 ##
 
