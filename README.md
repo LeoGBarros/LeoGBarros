@@ -1,11 +1,7 @@
 ## 🚀 Extremamente motivado e em constante desenvolvimento das minhas habilidades e crescimento profissional ! 🚀
 
 
- # My Skills ⬇️  
-
-  
-
-## Main Skill:
+ # My Skills ⬇️    
 
 <div style="display: inline_block"><br>
  
