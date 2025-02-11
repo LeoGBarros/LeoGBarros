@@ -8,7 +8,7 @@ Desde os 10 anos sabendo que o problema esta entre o monitor e a cadeira, até q
 
 💼 O que eu faço
 Desenvolvedor de Software Back-End
-<p>+- 1 ano Desenvolvendo em Node</p>
+<p>+- 1 ano Desenvolvendo em NodeJS com Express ou Nest</p>
 <p>+- 1 ano utilizando de frameworks como React para Front</p>
 
 Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/portfolio/)
