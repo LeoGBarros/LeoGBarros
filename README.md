@@ -1,6 +1,17 @@
-## 🚀 Extremamente motivado e em constante desenvolvimento das minhas habilidades e crescimento profissional ! 🚀
+##  Bem-vindo ao meu Git! 👋
+
+## Olá, me chamo Leonardo
+Desde os 10 anos sabendo que o problema esta entre o monitor e a cadeira, até que decidi tornar minha diversão em algo útil e produtivo. Quebrando códigos e corrigindo bugs desde os 20 anos.
 
 
+##
+
+💼 O que eu faço
+Desenvolvedor de Software Back-End
++- 1 ano Desenvolvendo em Node
++- 1 ano utilizando de frameworks como React para Front
+
+Acesse e confira meu 📄 [Portfólio pessoal] (https://leogbarros.github.io/portfolio/)
  # My Skills ⬇️    
 
 <div style="display: inline_block"><br>
