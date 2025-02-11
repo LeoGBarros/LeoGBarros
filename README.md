@@ -15,6 +15,22 @@
 ##
 
 
+
+# Projetos Pessoais     
+
+<div style="display: inline_block"><br>
+ 
+ 🃏 - Projeto Super Trunfo 
+
+ - Feito em PHP com Slim Framework
+ - Utilização de JWT
+
+  
+</div>
+
+##
+
+
 ## GitHub Stats:
 
   
