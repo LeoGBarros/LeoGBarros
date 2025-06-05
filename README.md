@@ -30,11 +30,22 @@ Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/port
 
 ## Projetos Pessoais
 
-### 🃏 Projeto Super Trunfo
+###  Projeto Super Trunfo
 
 - Desenvolvido em **PHP** utilizando o **Slim Framework**
 - Implementação de **JWT** para autenticação
 - Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo)
+
+
+
+###  Projeto InforShop 
+
+- Desenvolvido em **Java** utilizando o **Spring**
+- Estrutura baseada em **Microsserviços**
+- Implementação de **JWT** para autenticação
+- Integrações de Pagamento
+- Repositório: [InforShop](https://github.com/LeoGBarros/inforShop)
+
 
 
 ##
