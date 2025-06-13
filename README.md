@@ -30,48 +30,14 @@ Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/port
 
 ## Projetos Pessoais e Tech Challenge
 
-###  Projeto Super Trunfo
+| Projeto Super Trunfo | Projeto InforShop |
+|----------------------|-------------------|
+| - Desenvolvido em **PHP** utilizando o **Slim Framework**<br>- Implementação de **JWT** para autenticação<br>- Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo) | - Desenvolvido em **Java** utilizando o **Spring**<br>- Estrutura baseada em **Microsserviços**<br>- Implementação de **JWT** para autenticação<br>- Integrações de Pagamento<br>- Repositório: [InforShop](https://github.com/LeoGBarros/inforShop) |
 
-- Desenvolvido em **PHP** utilizando o **Slim Framework**
-- Implementação de **JWT** para autenticação
-- Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo)
+| Challenge Alura | Challenge Itaú (ICarros) |
+|----------------|--------------------------|
+| - Utilizar **Java 18+**<br>- Utilizar **Spring Boot**<br>- Utilizar **Spring Data JPA**<br>- Utilizar **MySQL**<br>- Criação de tabelas com **Flyway**<br>- Repositório: [Challenge Alura](https://github.com/LeoGBarros/challenge_alura) | - Utilizar **Java 18+**<br>- Utilizar **Spring Boot** e **Spring Web**<br>- Utilizar **Maven**<br><br>**Frontend:**<br>- React com **TypeScript**<br>- **Vite**<br>- **CSS Modules**<br>- **React Icons**, **React Modal**<br>Repositório Back: [CGMV_BACK](https://github.com/LeoGBarros/CGMV_BACK)<br>Repositório Front: [CGMV](https://github.com/LeoGBarros/CGMV) |
 
-
-
-###  Projeto InforShop 
-
-- Desenvolvido em **Java** utilizando o **Spring**
-- Estrutura baseada em **Microsserviços**
-- Implementação de **JWT** para autenticação
-- Integrações de Pagamento
-- Repositório: [InforShop](https://github.com/LeoGBarros/inforShop)
-
-
-###  Challenge Alura 
-
-- Utilizar java 18+
-- Utilizar Spring boot
-- Utilizar Spring data JPA
-- Utilizar mysql
-- Utilizar criação de tabelas manuais (flyway)
-- Repositório: [InforShop](https://github.com/LeoGBarros/challenge_alura)
-
-
-
-###  Challenge Itau(ICarros) 
-
-- Utilizar java 18+
-- Utilizar Spring boot
-- Utilizar Spring Web
-- Utilizar Maven
-
-- React com TypeScript
-- Vite para desenvolvimento rápido
-- CSS Modules para estilização isolada
-- React Icons para ícones
-- React Modal para janelas modais
-- Repositório Back: [InforShop](https://github.com/LeoGBarros/CGMV_BACK)
-- Repositório Front: [InforShop](https://github.com/LeoGBarros/CGMV)
 
 ##
 
