@@ -25,18 +25,73 @@ Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/port
 </div>
 
 ##
-
-
-
 ## Projetos Pessoais e Tech Challenge
 
-| Projeto Super Trunfo | Projeto InforShop |
-|----------------------|-------------------|
-| - Desenvolvido em **PHP** utilizando o **Slim Framework**<br>- Implementação de **JWT** para autenticação<br>- Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo) | - Desenvolvido em **Java** utilizando o **Spring**<br>- Estrutura baseada em **Microsserviços**<br>- Implementação de **JWT** para autenticação<br>- Integrações de Pagamento<br>- Repositório: [InforShop](https://github.com/LeoGBarros/inforShop) |
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-| Challenge Alura | Challenge Itaú (ICarros) |
-|----------------|--------------------------|
-| - Utilizar **Java 18+**<br>- Utilizar **Spring Boot**<br>- Utilizar **Spring Data JPA**<br>- Utilizar **MySQL**<br>- Criação de tabelas com **Flyway**<br>- Repositório: [Challenge Alura](https://github.com/LeoGBarros/challenge_alura) | - Utilizar **Java 18+**<br>- Utilizar **Spring Boot** e **Spring Web**<br>- Utilizar **Maven**<br><br>**Frontend:**<br>- React com **TypeScript**<br>- **Vite**<br>- **CSS Modules**<br>- **React Icons**, **React Modal**<br>Repositório Back: [CGMV_BACK](https://github.com/LeoGBarros/CGMV_BACK)<br>Repositório Front: [CGMV](https://github.com/LeoGBarros/CGMV) |
+### Projeto Super Trunfo
+
+- Desenvolvido em **PHP** com **Slim Framework**  
+- Autenticação com **JWT**  
+- Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo)  
+<br><br>
+
+</td>
+    <td valign="top" width="50%">
+
+### Projeto InforShop
+
+- Desenvolvido em **Java** com **Spring**  
+- Arquitetura baseada em **Microsserviços**  
+- Autenticação com **JWT**  
+- Integrações de pagamento  
+- Repositório: [InforShop](https://github.com/LeoGBarros/inforShop)
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Challenge Alura
+
+- **Java 18+**  
+- **Spring Boot + Spring Data JPA**  
+- **MySQL**  
+- Migração com **Flyway**  
+- Repositório: [Challenge Alura](https://github.com/LeoGBarros/challenge_alura)  
+<br><br><br>
+
+</td>
+    <td valign="top" width="50%">
+
+### Challenge Itaú (iCarros)
+
+**Backend**  
+- **Java 18+**  
+- **Spring Boot + Spring Web**  
+- **Maven**
+
+**Frontend**  
+- **React** com **TypeScript**  
+- **Vite**, **CSS Modules**  
+- **React Icons**, **React Modal**
+
+- Repositório Back: [CGMV_BACK](https://github.com/LeoGBarros/CGMV_BACK)  
+- Repositório Front: [CGMV](https://github.com/LeoGBarros/CGMV)
+
+</td>
+  </tr>
+</table>
+
+
+
 
 
 ##
