@@ -28,7 +28,7 @@ Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/port
 
 
 
-## Projetos Pessoais
+## Projetos Pessoais e Tech Challenge
 
 ###  Projeto Super Trunfo
 
@@ -47,6 +47,31 @@ Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/port
 - Repositório: [InforShop](https://github.com/LeoGBarros/inforShop)
 
 
+###  Challenge Alura 
+
+- Utilizar java 18+
+- Utilizar Spring boot
+- Utilizar Spring data JPA
+- Utilizar mysql
+- Utilizar criação de tabelas manuais (flyway)
+- Repositório: [InforShop](https://github.com/LeoGBarros/challenge_alura)
+
+
+
+###  Challenge Itau(ICarros) 
+
+- Utilizar java 18+
+- Utilizar Spring boot
+- Utilizar Spring Web
+- Utilizar Maven
+
+- React com TypeScript
+- Vite para desenvolvimento rápido
+- CSS Modules para estilização isolada
+- React Icons para ícones
+- React Modal para janelas modais
+- Repositório Back: [InforShop](https://github.com/LeoGBarros/CGMV_BACK)
+- Repositório Front: [InforShop](https://github.com/LeoGBarros/CGMV)
 
 ##
 
