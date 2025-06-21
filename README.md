@@ -15,80 +15,55 @@ Desenvolvedor de Software Back-End
 Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/portfolio/)
  # My Skills ⬇️    
 
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,kafka,aws,postgresql,mysql,docker,mongodb)](https://skillicons.dev)
 
-##
-## Projetos Pessoais e Tech Challenge
+## 🚀 Projetos Pessoais e Tech Challenges
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+---
 
-### Projeto Super Trunfo
+### 🃏 Super Trunfo
 
 - Desenvolvido em **PHP** com **Slim Framework**  
-- Autenticação com **JWT**  
-- Repositório: [Super Trunfo](https://github.com/LeoGBarros/SuperTrunfo)  
-<br><br>
+- Autenticação via **JWT**  
+- Projeto de jogo com lógica personalizada  
+🔗 [Repositório](https://github.com/LeoGBarros/SuperTrunfo)
 
-</td>
-    <td valign="top" width="50%">
+---
 
-### Projeto InforShop
+### 🛍️ InforShop
 
-- Desenvolvido em **Java** com **Spring**  
+- Desenvolvido em **Java** com **Spring Boot**  
 - Arquitetura baseada em **Microsserviços**  
 - Autenticação com **JWT**  
-- Integrações de pagamento  
-- Repositório: [InforShop](https://github.com/LeoGBarros/inforShop)
+- Integrações com APIs de pagamento  
+🔗 [Repositório](https://github.com/LeoGBarros/inforShop)
 
-</td>
-  </tr>
-</table>
+---
 
-<br>
+### 💡 Challenge Alura
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+- **Java 18+**, **Spring Boot**, **Spring Data JPA**  
+- Banco de dados **MySQL**  
+- Migrações com **Flyway**  
+- Desafio com foco em boas práticas de API REST  
+🔗 [Repositório](https://github.com/LeoGBarros/challenge_alura)
 
-### Challenge Alura
+---
 
-- **Java 18+**  
-- **Spring Boot + Spring Data JPA**  
-- **MySQL**  
-- Migração com **Flyway**  
-- Repositório: [Challenge Alura](https://github.com/LeoGBarros/challenge_alura)  
-<br><br><br>
-
-</td>
-    <td valign="top" width="50%">
-
-### Challenge Itaú (iCarros)
+### 🚗 Challenge Itaú (iCarros)
 
 **Backend**  
-- **Java 18+**  
-- **Spring Boot + Spring Web**  
-- **Maven**
+- **Java 18+**, **Spring Boot**, **Spring Web**  
+- Gerenciamento com **Maven**
 
 **Frontend**  
-- **React** com **TypeScript**  
-- **Vite**, **CSS Modules**  
-- **React Icons**, **React Modal**
+- **React + TypeScript**  
+- **Vite**, **CSS Modules**, **React Icons**, **React Modal**
 
-- Repositório Back: [CGMV_BACK](https://github.com/LeoGBarros/CGMV_BACK)  
-- Repositório Front: [CGMV](https://github.com/LeoGBarros/CGMV)
+🔗 [Repositório Backend](https://github.com/LeoGBarros/CGMV_BACK)  
+🔗 [Repositório Frontend](https://github.com/LeoGBarros/CGMV)
 
-</td>
-  </tr>
-</table>
+---
 
 
 
