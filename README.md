@@ -10,6 +10,7 @@ Desde os 10 anos sabendo que o problema esta entre o monitor e a cadeira, até q
 Desenvolvedor de Software Back-End
 <p> 2+ ano de experiência com Desenvolviemnto Back-End com Java e Spring, Node com Nest/Express</p>
 <p> 2+ ano utilizando de frameworks como React e Angular para Front</p>
+<p> 1 ano criando e integrando Smart Contracts Blockchain</p>
 
 Acesse e confira meu 📄 [Portfólio pessoal](https://leogbarros.github.io/portfolio/)
  # My Skills ⬇️    
