@@ -4,7 +4,7 @@
 
 Desde os 10 anos sabendo que o problema está entre o monitor e a cadeira, até que decidi tornar minha diversão em algo útil e produtivo. Quebrando códigos e corrigindo bugs desde os 20 anos.
 
-## 💼 Desenvolvedor de Software Back-End
+## 💼 Desenvolvedor Blockchain
 
 - 2+ anos de experiência com desenvolvimento Back-End com **Java e Spring**, **Node com Nest/Express**
 - 2+ anos utilizando frameworks como **React** e **Angular** no Front-End
